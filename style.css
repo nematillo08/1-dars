@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+}
+#section-1{
+    background: #fff ;
+    width: 1520px;height: 720px;
+}
+#section-2{
+    background: #00FFFF ;
+    width: 1520px;height: 720px;
+}
+#section-3{
+    background: #FFFF00 ;
+    width: 1520px;height: 720px;
+}
+#section-4{
+    background: #00FF00 ;
+    width: 1520px;height: 720px;
+}
+header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    justify-content: space-between;
+    background: #000;
+    padding: 2rem;
+}
+.navbar a{
+    font-size: 2rem;
+    margin-left: 2rem ;
+    color: #fff;
+    text-decoration: none;
+}
+h1 {
+    position: relative;
+    top: 360px;
+    font-size: 45px;
+    text-align: center;
+}
